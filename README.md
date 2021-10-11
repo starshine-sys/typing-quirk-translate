@@ -11,6 +11,10 @@ It won't show up in the member list, which is normal! It'll still work.
 
 This bot cannot read any messages except those on which the translate commands are used. No message data is ever stored.
 
+## Running it yourself
+
+Publish the source like you would any other worker, then sync the commands in `commands.json` to Discord however you like (a script is recommended, though something like Postman works just fine as well)
+
 ## License
 
 Licensed under the BSD license. For more info, see LICENSE in the root directory.
